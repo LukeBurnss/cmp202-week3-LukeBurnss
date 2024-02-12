@@ -1,0 +1,9 @@
+﻿  PMS.cpp
+C:\Users\javad\source\repos\PMS.cpp(141,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\javad\source\repos\PMS.cpp(155,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\javad\source\repos\PMS.cpp(169,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PMS.vcxproj -> C:\Users\javad\source\repos\PMS\x64\Debug\PMS.exe
